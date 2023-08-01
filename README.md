@@ -2,4 +2,4 @@
 Оповещает всех игроков об выигрыше в "Удаче" через функции /shop
 
 ## Для установки необходимо:
-- [[Shop] Core](https://hlmod.net/resources/shop-core-fork.284/)
+- [[Shop] Core](https://github.com/hlmod/Shop-Core)
