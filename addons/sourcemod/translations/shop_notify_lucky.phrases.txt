@@ -1,0 +1,15 @@
+"Phrases"
+{
+	"No name item"
+	{
+		"ru"		"Не удалось получить название"
+		"en"		"Couldn't get the name"
+	}
+	
+	"Notification of a win"
+	{
+		"#format"   "{1:N},{2:s},{3:s},{4:s}"
+		"ru"		"[ {LIGHTPURPLE}LUCKY{DEFAULT} ] Игрок {OLIVE}{1}{DEFAULT} выиграл предмет {GREEN}{2}{DEFAULT} ({GREEN}{3}{DEFAULT}) (из категории: {GREEN}{4}{DEFAULT})"
+		"en"		"[ {LIGHTPURPLE}LUCKY{DEFAULT} ] Player {OLIVE}{1}{DEFAULT} won item {GREEN}{2}{DEFAULT} ({GREEN}{3}{DEFAULT}) (from category: {GREEN}{4}{DEFAULT})"
+	}
+}
